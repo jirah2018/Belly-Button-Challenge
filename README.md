@@ -1,6 +1,6 @@
 # Belly-Button-Challenge
 
-**Visualizing Microbial Ecosystem***
+**D3 Visualizing Microbial Ecosystem***
 
 ![main web page](https://github.com/jirah2018/Belly-Button-Challenge/assets/151040384/1025d210-c5ad-4a38-910b-27b2e84f83e4)
 
@@ -39,6 +39,6 @@
 
 ***Deploy app when completed.***
 
-Deployment Page: 
+Deployment Page: https://jirah2018.github.io/Belly-Button-Challenge/
 
 
